@@ -46,13 +46,13 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 
 **Consequência:** Aviso escrito e privado da liderança da comunidade, esclarecendo a natureza da violação e com a explicação do motivo pelo qual o comportamento era impróprio. Um pedido de desculpas público poderá ser solicitado. 
 
-## Advertência 
+### Advertência 
 
 **Impacto na comunidade:** Violação por meio de um incidente único ou atitudes repetidas.
 
 **Consequência:** Advertência com consequências para comportamento repetido. Não poderá haver interações com as pessoas envolvidas, incluindo interações não solicitadas com as pessoas que estiverem aplicando o Código de Conduta, por um período determinado. Isto inclui evitar interações em espaços da comunidade, bem como canais externos como as mídias sociais. A violação destes termos pode levar a um banimento temporário ou permanente.
 
-## Banimento Permanente
+### Banimento Permanente
 
 **Impacto na comunidade:** Demonstrar um padrão na violação das normas da comunidade, incluindo a persistência do comportamento impróprio, assédio a uma pessoa ou agressão ou depreciação a classes de pessoas.
 
