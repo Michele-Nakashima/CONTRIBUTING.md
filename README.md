@@ -39,3 +39,11 @@ A liderança da comunidade tem a obrigação de respeitar a privacidade e a segu
 ## Diretrizes de aplicação
 
 A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade para determinar as consequências de qualquer ação que considerar violadora deste Código de Conduta:
+
+### Ação corretiva
+
+**Impacto na comunidade:** Uso de linguagem imprópria ou outro comportamento considerado anti-profissional ou repudiado pela comunidade. 
+
+**Consequência:** Aviso escrito e privado da liderança da comunidade, esclarecendo a natureza da violação e com a explicação do motivo pelo qual o comportamento era impróprio. Um pedido de desculpas público poderá ser solicitado. 
+
+
