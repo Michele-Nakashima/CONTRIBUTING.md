@@ -61,5 +61,5 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 # Atribuição
 Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org/), versão 2.0, disponível em https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
 
-
+As Diretrizes de Impacto na Comunidade foram inspiradas pela [Aplicação do código ]
 
